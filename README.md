@@ -16,7 +16,7 @@
 
 ## Screenshot
 
-![readme](../Phil-s-Portfolio/images/phil.png)
+![readme](./images/Portfolio%20page.png)
 
 
 ## Live Demo
