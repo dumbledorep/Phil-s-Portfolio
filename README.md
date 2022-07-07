@@ -17,6 +17,9 @@
 ## Screenshot
 
 ![readme](./images/Portfolio%20page.png)
+![readme](./images/work.png)
+![readme](./images/work1.png)
+![readme](./images/about.png)
 
 
 ## Live Demo
