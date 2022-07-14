@@ -409,11 +409,11 @@ hr {
   background-size: contain;
   border-top-left-radius: 100px;
   margin-top: 100px;
-  padding-top: 60px;
+  padding-top: 5px;
 }
 
 .inner-div {
-  padding-top: 80px;
+  padding-top: 100px;
   margin-left: 24px;
   margin-right: 24px;
 }
@@ -439,13 +439,14 @@ hr {
   line-height: 28px;
   text-align: center;
   color: #ebebff;
-  margin-top: 20px;
+  margin-top: 10px;
 }
 
 .form {
   padding-top: 40px;
   margin-left: 24px;
   margin-right: 24px;
+  margin-top: -25px;
 }
 
 ul.inner-list {
@@ -479,8 +480,8 @@ li textarea {
 
 .shape {
   padding-right: 25%;
-  padding-left: 35%;
-  margin-top: 20px;
+  padding-left: 30%;
+  margin-top: 45px;
 }
 
 button:hover {

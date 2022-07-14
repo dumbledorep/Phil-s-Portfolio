@@ -326,20 +326,17 @@
       </div>
       <form action="https://formspree.io/f/mvoljlod" id="form" class="form" method="post">
         <ul class="inner-list">
-          <li><input type="text" class="form-control" placeholder="Full name" name="name" id="name" size="40" maxlength="30">
+          <li><input type="text" class="form-control" placeholder="Full name" name="name" id="name" size="40" maxlength="30" required>
           </li>
-          <li> </li>
-          <li><input type="email" class="form-control" name="email" id="email" placeholder="Email address">
+          <li><input type="email" class="form-control" name="email" id="email" placeholder="Email address" pattern=".+@globex.com\" required>
           </li>
-          <li> </li>
-          <li><textarea name="text" class="form-control" id="text" placeholder="Message" maxlength="500"></textarea></li>
-          <li> </li>
+          <li><textarea name="text" class="form-control" id="text" placeholder="Message" maxlength="500" required></textarea></li>
           <li class="flex-item6" id="submit-btn"><button type="submit">Get In Touch</button></li>
           <li class="shape"><img src="./images/Shape.png" alt="shape"></li>
         </ul>
       </form>
     </section>
-
+  </main>
     <script
       type="module"
       src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"
@@ -348,6 +345,5 @@
       nomodule
       src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"
     ></script>
-  </main>
   </body>
 </html>
