@@ -304,7 +304,7 @@ li {
   letter-spacing: 0.03em;
   color: #396df2;
   background-color: white;
-  margin-top: -10px;
+  margin-top: 18px;
 }
 
 .about-btn {
@@ -404,21 +404,23 @@ hr {
   display: flex;
   flex-direction: column;
   box-sizing: border-box;
+  height: 779px;
   background: #6070ff url(images/contact\ form\ shapes-mobile@2x.png) 100% -20px no-repeat;
   background-size: contain;
   border-top-left-radius: 100px;
   margin-top: 100px;
+  padding-top: 60px;
 }
 
 .inner-div {
-  padding-top: 100px;
-  padding-right: 30px;
-  padding-left: 20px;
+  padding-top: 80px;
+  margin-left: 24px;
+  margin-right: 24px;
 }
 
 .inner-div h2 {
   color: white;
-  font-family: Poppins;
+  font-family: "Poppins", sans-serif;
   text-align: center;
   font-size: 40px;
   line-height: 52px;
@@ -428,17 +430,27 @@ hr {
 }
 
 .inner-div p {
+  display: flex;
+  align-items: center;
   left: 24px;
   top: 4802px;
   font-size: 20px;
+  font-weight: 400;
   line-height: 28px;
   text-align: center;
   color: #ebebff;
+  margin-top: 20px;
 }
 
 .form {
-  padding-right: 30px;
-  padding-left: 20px;
+  padding-top: 40px;
+  margin-left: 24px;
+  margin-right: 24px;
+}
+
+ul.inner-list {
+  list-style-type: none;
+  
 }
 
 li input {
@@ -450,6 +462,7 @@ li input {
   height: 50px;
   padding-left: 10px;
   color: #000;
+  margin-top: 18px;
 }
 
 li textarea {
@@ -462,7 +475,7 @@ li textarea {
   padding-left: 10px;
   font-size: 15px;
   line-height: 24px;
-  padding-top: 10px;
+  margin-top: 18px;
 }
 
 .shape {
