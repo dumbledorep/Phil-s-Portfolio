@@ -16,7 +16,7 @@
 
 ## Screenshot
 
-![readme](/images/Screenshot(33).png)
+![readme](https://drive.google.com/file/d/1XKgpmy8cauYrr8br0b3BkDmneD13yjZU/view?usp=sharing)
 
 
 ## Live Demo
