@@ -1,33 +1,42 @@
-# Selma Hamutenya Portfolio Project
+# My-Portfolio
 
-> This is my portfolio website to showcase my skills and projects. 
+> Portfolio: Desktop version + Mobile Version
 
+**This is a portfolio website created by using the template provided in Figma.**
 
 ## Built With
 
 - HTML
 - CSS
 
+## Materials required for validation
+
+- follow this link :
+ [HTML and CSS Linters link]( https://github.com/microverseinc/linters-config/tree/master/html-css)
+
+## Screenshot
+
+![readme]()
+
+
 ## Live Demo
 
-[Live Demo Link](https://selmandapanda.github.io/Selma-Hamutenya-Portfolio/)
+[live demo](https://dumbledorep.github.io/My-portfolio/)
 
 ## Get Started
 
 To get a local copy up and running follow these simple example steps.
 
-## Setup
-
-1. Clone the Repository or Download the Zip file to set up the website locally. (https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) This documentation details the steps to take to clone a repository.
-
+1. Clone the Repo or Download the Zip file
+2. Run the live server or simply open index.html with your browser.
 
 ## Author
 
-👤 **Selma Ndapanda Hamutenya**
+👤 **Philip Kweku Assan**
 
-- GitHub: [@SelmaNdapanda](https://github.com/SelmaNdapanda)
-- Twitter: [@SellohBlaq](https://twitter.com/sellohBlaq)
-- LinkedIn: [selma-ndapanda-hamutenya-19169a1ab](https://linkedin.com/in/selma-ndapanda-hamutenya-19169a1ab)
+- GitHub: [@dumbledorep](https://github.com/dumbledorep)
+- Twitter: [@assanphilip17](https://twitter.com/assanphilip17)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/philip-assan-142735162/)
 
 ## 🤝 Contributing
 
@@ -38,13 +47,3 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Collaborators
-- Mentor
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
-
